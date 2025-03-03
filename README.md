@@ -2,7 +2,6 @@
   📂 TShadow2
   
   ### Навыки
-  > 🤖 Телеграм бот
   > 🐍 Python
   > 🐘💉 PostgreSQL
 
@@ -26,7 +25,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
   ![GoogleColab](https://img.shields.io/badge/Colab-090909?style=for-the-badge&logo=googlecolab&color=090909)
 
-  ![AfterEffects](https://img.shields.io/badge/Adobe_after_affects_2020-ED0035?style=for-the-badge&logo=Video&logoColor=393665)
+  ![AfterEffects](https://img.shields.io/badge/Adobe_after_effects_2020-ED0035?style=for-the-badge&logo=Video&logoColor=393665)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TShadow2&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages">
 </div>
